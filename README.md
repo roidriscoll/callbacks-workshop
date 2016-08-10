@@ -46,7 +46,14 @@ console.log(3);
 
 * Open the browser console.
 
-* You should see `hello!`.
+* You should see:
+
+```
+Sunset Rubdown
+Texas folk
+Frozen soundtrack
+We Will Rock You by Queen
+```
 
 * Open `index.js` in your text editor.
 
